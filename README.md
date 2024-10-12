@@ -2,7 +2,7 @@
 I'm Ralf Lindemann, an expert in computational and parametric design, focusing on urban planning and sustainability.
 
 ## 👀 I'm interested in ...
-I'm interested in algorithmic design, data analytics for life sciences, and geospatial analysis for urban environments.
+I'm interested in algorithmic design, data analytics, and geospatial analysis for urban environments.
 
 ## 🌱 I’m currently learning ...
 I'm currently learning more about machine learning applications in urban planning and enhancing my expertise in OSMnx for spatial analysis.
